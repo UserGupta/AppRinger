@@ -1,0 +1,31 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 07, 2022 - 05:21:22
+Django version 2.1, using settings 'AppRinger.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 07, 2022 - 05:25:57
+Django version 2.1, using settings 'AppRinger.settings'
+Starting development server at http://ec2-18-205-191-89.compute-1.amazonaws.com:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 07, 2022 - 05:34:34
+Django version 2.1, using settings 'AppRinger.settings'
+Starting development server at http://ec2-18-205-191-89.compute-1.amazonaws.com:8000/
+Quit the server with CONTROL-C.
+[07/Dec/2022 05:39:20] "GET / HTTP/1.1" 200 10
+[07/Dec/2022 05:39:37] "GET /bookstore/booksStore/ HTTP/1.1" 200 2512
+[07/Dec/2022 05:40:08] "GET /bookstore/booksStore/ HTTP/1.1" 200 2512
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 07, 2022 - 05:38:50
+Django version 2.1, using settings 'AppRinger.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
